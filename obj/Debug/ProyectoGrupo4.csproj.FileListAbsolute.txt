@@ -1,0 +1,70 @@
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmMenuPrincipal.resources
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\bin\Debug\ProyectoGrupo4.exe.config
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\bin\Debug\ProyectoGrupo4.exe
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\bin\Debug\ProyectoGrupo4.pdb
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.exe
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.pdb
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmComprar.resources
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmAbarrotes.resources
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmBebidas.resources
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmRefrigerados.resources
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmVerdurasyFrutas.resources
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmPanaderiayReposteria.resources
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmRecetas.resources
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmEnsalada.resources
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmTacos.resources
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmTrufas.resources
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmPagar.resources
+C:\Users\Asus\OneDrive\Desktop\Estructura de Datos\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmOrdenar.resources
+G:\Mi unidad\ProyectoGrupo4\bin\Debug\ProyectoGrupo4.exe.config
+G:\Mi unidad\ProyectoGrupo4\bin\Debug\ProyectoGrupo4.exe
+G:\Mi unidad\ProyectoGrupo4\bin\Debug\ProyectoGrupo4.pdb
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.csproj.AssemblyReference.cache
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmAbarrotes.resources
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmBebidas.resources
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmComprar.resources
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmEnsalada.resources
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmMenuPrincipal.resources
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmOrdenar.resources
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmPagar.resources
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmPanaderiayReposteria.resources
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmRecetas.resources
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmRefrigerados.resources
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmTacos.resources
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmTrufas.resources
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmVerdurasyFrutas.resources
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Properties.Resources.resources
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.csproj.GenerateResource.cache
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.csproj.CoreCompileInputs.cache
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.exe
+G:\Mi unidad\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.pdb
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\bin\Debug\ProyectoGrupo4.exe.config
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\bin\Debug\ProyectoGrupo4.exe
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\bin\Debug\ProyectoGrupo4.pdb
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.csproj.AssemblyReference.cache
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmAbarrotes.resources
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmBebidas.resources
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmComprar.resources
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmEnsalada.resources
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmMenuPrincipal.resources
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmOrdenar.resources
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmPagar.resources
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmPanaderiayReposteria.resources
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmRecetas.resources
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmRefrigerados.resources
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmTacos.resources
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmTrufas.resources
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmVerdurasyFrutas.resources
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Properties.Resources.resources
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.csproj.GenerateResource.cache
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.exe
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.pdb
+D:\OneDrive - Universidad Latina\U La Tina\IV Cuatrimestre\Estructura de Datos\Proyecto\Proyecto listas-colas\ProyectoGrupo4\obj\Debug\ProyectoGrupo4.Formularios.frmArboles.resources

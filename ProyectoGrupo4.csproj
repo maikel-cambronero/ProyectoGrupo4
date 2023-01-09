@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{42B89E72-34F9-48F0-9C3A-16F05D2804F8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProyectoGrupo4</RootNamespace>
+    <AssemblyName>ProyectoGrupo4</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\caArticulo.cs" />
+    <Compile Include="Clases\caArticuloServicio.cs" />
+    <Compile Include="Clases\ccArticulo.cs" />
+    <Compile Include="Clases\ccArticuloServicio.cs" />
+    <Compile Include="Clases\cGlobal.cs" />
+    <Compile Include="Clases\clArticulo.cs" />
+    <Compile Include="Clases\clArticuloServicio.cs" />
+    <Compile Include="Clases\cpArticulo.cs" />
+    <Compile Include="Clases\cpArticuloServicio.cs" />
+    <Compile Include="Formularios\frmAbarrotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmAbarrotes.Designer.cs">
+      <DependentUpon>frmAbarrotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmArboles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmArboles.Designer.cs">
+      <DependentUpon>frmArboles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmOrdenar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmOrdenar.Designer.cs">
+      <DependentUpon>frmOrdenar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmBebidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmBebidas.Designer.cs">
+      <DependentUpon>frmBebidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmComprar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmComprar.Designer.cs">
+      <DependentUpon>frmComprar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmEnsalada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmEnsalada.Designer.cs">
+      <DependentUpon>frmEnsalada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmMenuPrincipal.Designer.cs">
+      <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmPagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmPagar.Designer.cs">
+      <DependentUpon>frmPagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmPanaderiayReposteria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmPanaderiayReposteria.Designer.cs">
+      <DependentUpon>frmPanaderiayReposteria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmRecetas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmRecetas.Designer.cs">
+      <DependentUpon>frmRecetas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmRefrigerados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmRefrigerados.Designer.cs">
+      <DependentUpon>frmRefrigerados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmTacos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmTacos.Designer.cs">
+      <DependentUpon>frmTacos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmTrufas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmTrufas.Designer.cs">
+      <DependentUpon>frmTrufas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmVerdurasyFrutas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmVerdurasyFrutas.Designer.cs">
+      <DependentUpon>frmVerdurasyFrutas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formularios\frmAbarrotes.resx">
+      <DependentUpon>frmAbarrotes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmArboles.resx">
+      <DependentUpon>frmArboles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmBebidas.resx">
+      <DependentUpon>frmBebidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmComprar.resx">
+      <DependentUpon>frmComprar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmEnsalada.resx">
+      <DependentUpon>frmEnsalada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmMenuPrincipal.resx">
+      <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmOrdenar.resx">
+      <DependentUpon>frmOrdenar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmPagar.resx">
+      <DependentUpon>frmPagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmPanaderiayReposteria.resx">
+      <DependentUpon>frmPanaderiayReposteria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmRecetas.resx">
+      <DependentUpon>frmRecetas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmRefrigerados.resx">
+      <DependentUpon>frmRefrigerados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmTacos.resx">
+      <DependentUpon>frmTacos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmTrufas.resx">
+      <DependentUpon>frmTrufas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmVerdurasyFrutas.resx">
+      <DependentUpon>frmVerdurasyFrutas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
